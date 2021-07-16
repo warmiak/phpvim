@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/pwolkiewicz/Sites/api.finanztrends.local/packages/basis-provider/src'
+let g:netrw_dirhist_9='/home/pwolkiewicz/Sites/api.finanztrends.local/packages/basis-provider'
+let g:netrw_dirhist_8='/home/pwolkiewicz/Sites/api.finanztrends.local/packages'
+let g:netrw_dirhist_7='/home/pwolkiewicz/Sites/api.finanztrends.local'
+let g:netrw_dirhist_6='/home/pwolkiewicz/Sites/api.finanztrends.local/app'
+let g:netrw_dirhist_5='/home/pwolkiewicz/Sites/api.finanztrends.local/app/Http'
+let g:netrw_dirhist_4='/home/pwolkiewicz/Sites/api.finanztrends.local/app/Http/Controllers'
+let g:netrw_dirhist_3='/home/pwolkiewicz/Sites/api.finanztrends.local/app/Http'
+let g:netrw_dirhist_2='/home/pwolkiewicz/Sites/api.finanztrends.local/app'
+let g:netrw_dirhist_1='/home/pwolkiewicz/Sites/api.finanztrends.local'
